@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pirry<p align="center">
   <a href="https://builderbot.vercel.app/">
     <picture>
@@ -42,3 +43,6 @@ If you want to discover all the functions and features offered by the library yo
 ## Contact Us
 - [💻 Discord](https://link.codigoencasa.com/DISCORD)
 - [👌 𝕏 (Twitter)](https://twitter.com/leifermendez)
+=======
+# project1
+>>>>>>> 20df6fdb93f9475bdf6837157db55f44d10f3d9a
